@@ -58,5 +58,5 @@ make qemu        # boots xv6 in QEMU
 
 ```bash
 git fetch upstream
-git merge upstream/riscv-head
+git merge upstream/main
 ```
