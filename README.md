@@ -1,5 +1,7 @@
 # xv6 Kernel Lab
 
+**Author:** Pawan ([pawanct08](https://github.com/pawanct08))
+
 Personal kernel lab based on [xv6-riscv](https://github.com/mit-pdos/xv6-riscv).
 Extended with custom syscalls, a modified scheduler, and memory introspection — used as a hands-on foundation before Linux driver development.
 
